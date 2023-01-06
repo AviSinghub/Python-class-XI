@@ -1,0 +1,12 @@
+Chapter 3 : Python fundamentals
+In this session the proper fundamentals of python is explained. Furthermore the sessions are fragmented into files respectively.
+below are the files and names of it. Files with extension .py are python files
+01 file         "assign values par01"
+02 file         "assign values"
+02.01 file      "practice assign"
+02.02 file      "simple assign valuess"
+03 file         "simple input output"
+04 file         "Dynamic typing"
+05 file         "input_output"
+06 file         "reading numbers"
+07 file         "op with print Func"
