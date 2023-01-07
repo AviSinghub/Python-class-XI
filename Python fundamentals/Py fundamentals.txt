@@ -10,3 +10,4 @@ below are the files and names of it. Files with extension .py are python files
 05 file         "input_output"
 06 file         "reading numbers"
 07 file         "op with print Func"
+08 file         "practice ques"
