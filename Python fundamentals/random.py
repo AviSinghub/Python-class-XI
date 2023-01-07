@@ -1,0 +1,11 @@
+num1 = int(input('Enter the first number:'))
+num2 = int(input('Enter the second number:'))
+num3 = int(input('Enter the third number:'))
+num4 = int(input('Enter the fourth number:'))
+sum = num1+num2+num3+num4
+print("Entered numbers are")
+print("First number =",num1, end=' ')
+print("Second number =",num2, end=' ')
+print("Third number =",num3, end=' ')
+print("Fourth number =",num4,)
+print("Sum of all number is:", sum)
